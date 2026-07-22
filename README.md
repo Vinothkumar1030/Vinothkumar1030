@@ -22,4 +22,4 @@
 Chennai, Tamil Nadu, India
 
 ## 📫 Connect with Me
-- LinkedIn: (Add your LinkedIn profile URL here later)
+- LinkedIn: https://linkedin.com/in/vinothkumar-k-74ba8a282/
