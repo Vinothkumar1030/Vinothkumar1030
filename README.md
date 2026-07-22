@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Vinothkumar K
 
-<!--
-**Vinothkumar1030/Vinothkumar1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- M.Sc. Computer Science Graduate (CGPA: 8.21/10)
+- Passionate about Software Development
+- Currently learning Artificial Intelligence & Machine Learning
+- Looking for Entry-Level Software Engineer opportunities
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- Python
+- Java
+- SQL
+- DBMS
+- Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Git & GitHub
+
+## 📍 Location
+Chennai, Tamil Nadu, India
+
+## 📫 Connect with Me
+- LinkedIn: (Add your LinkedIn profile URL here later)
